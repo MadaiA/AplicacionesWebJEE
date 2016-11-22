@@ -4,7 +4,7 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-      <title>Welcome again</title>
+      <title>Welcome</title>
    </head>
    <body>
    <%@include file="header.html" %>
